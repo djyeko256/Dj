@@ -1,0 +1,6 @@
+{
+  "name": "Virtual DJ Pro",
+  "description": "Professional 2-4 deck virtual DJ console with audio & video mixing, real-time effects, vocal remover, beat-matching, harmonic key detection, visualizers, customizable skins, MIDI controller mapping, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
